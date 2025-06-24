@@ -14,7 +14,7 @@ Desarrollado en Python y Power BI, con este dashboard se analizan y seleccionan 
 ---
 
 ## 🛠 Tecnologías
-Power BI • SQL Server • Oracle • Python • LangChain • HTML/CSS/JS • SpringBoot
+Power BI • SQL Server • Oracle • Python • LangChain • HTML/CSS/JS • SpringBoot • SAP
 
 ---
 
