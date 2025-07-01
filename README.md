@@ -11,6 +11,9 @@ Dashboard interactivo con Power BI que muestra retornos, ganancias netas y métr
 ### 🏃 [Dashboard equipo ideal de Cricket](https://github.com/diegosruiz18/Caso-Equipo-Cricket)
 Desarrollado en Python y Power BI, con este dashboard se analizan y seleccionan a los mejores jugadores de cricket.
 
+### 📚 [Recomendador semántico de libros](https://github.com/diegosruiz18/Recomendador-Libros)
+Aplicación de recomendaciones de libros desarrollado en Python y Gradio, se aplican LLMs con LangChain y Chroma.
+
 ---
 
 ## 🛠 Tecnologías
