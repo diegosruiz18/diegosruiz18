@@ -14,6 +14,9 @@ Desarrollado en Python y Power BI, con este dashboard se analizan y seleccionan 
 ### 📚 [Recomendador semántico de libros](https://github.com/diegosruiz18/Recomendador-Libros)
 Aplicación de recomendaciones de libros desarrollado en Python y Gradio, se aplican LLMs con LangChain y Chroma.
 
+### 🩺 [Predicción de ataques cardiacos](https://github.com/diegosruiz18/Prediccion-Infartos-ML)
+Desarrollado en Python, este modelo de clasificación tiene como fin predecir infartos con Machine Learning.
+
 ---
 
 ## 🛠 Tecnologías
