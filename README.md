@@ -15,7 +15,7 @@ Desarrollado en Python y Power BI, con este dashboard se analizan y seleccionan 
 Aplicación de recomendaciones de libros desarrollado en Python y Gradio, se aplican LLMs con LangChain y Chroma.
 
 ### 🩺 [Predicción de ataques cardiacos](https://github.com/diegosruiz18/Prediccion-Infartos-ML)
-Desarrollado en Python, este modelo de clasificación tiene como fin predecir infartos con Machine Learning.
+Desarrollado en Python, este modelo de clasificación tiene como fin predecir infartos, se aplican algoritmos de Machine Learning.
 
 ---
 
