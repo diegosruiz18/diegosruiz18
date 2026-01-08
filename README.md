@@ -20,7 +20,7 @@ Desarrollado en Python, este modelo de clasificación tiene como fin predecir in
 ---
 
 ## 🛠 Tecnologías
-Power BI • SQL Server • Oracle • Python • LangChain • HTML/CSS/JS • SpringBoot • SAP
+Power BI • SQL Server • Oracle • Excel • Python • LangChain • HTML/CSS/JS • SpringBoot • SAP
 
 ---
 
