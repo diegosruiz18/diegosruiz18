@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Mi nombre es Diego Socualaya 👋
 
-Bachiller en Ingeniería de Sistemas, cuento con experiencia en proyectos de BI y conocimientos en Machine Learning.
+Bachiller en Ingeniería de Sistemas, cuento con experiencia en proyectos de BI / análisis de datos y conocimientos en Machine Learning.
 📊 ¡Me interesa mucho el mundo de los **datos** y la **inteligencia artificial**! 💻
 
 ## 🚀 Mi Porfatolio
