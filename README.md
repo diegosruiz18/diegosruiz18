@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Mi nombre es Diego Socualaya 👋
 
-Soy desarrollador fullstack orientado a resultados, cuento con experiencia en Power BI y poseo conocimientos en Machine Learning, LLM y análisis de datos.
+Bachiller en Ingeniería de Sistemas, cuento con experiencia en proyectos de BI y conocimientos en Machine Learning.
 📊 ¡Me interesa mucho el mundo de los **datos** y la **inteligencia artificial**! 💻
 
 ## 🚀 Mi Porfatolio
