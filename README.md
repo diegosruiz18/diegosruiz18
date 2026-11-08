@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Mi nombre es Diego Socualaya 👋
+# 👋 ¡Hola! Mi nombre es Diego 👋
 
 Bachiller en Ingeniería de Sistemas, cuento con experiencia en proyectos de BI / análisis de datos y conocimientos en Machine Learning.
 📊 ¡Me interesa mucho el mundo de los **datos** y la **inteligencia artificial**! 💻
